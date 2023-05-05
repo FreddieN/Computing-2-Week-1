@@ -10,28 +10,28 @@ Details on how to set it up can be found in the
 To make sure you've set up your environment correctly,
 complete the following tasks:
 
-* [ ] Install Node.js.
-  * [ ] Install JSLint package globally.
-  * [ ] Install JSDoc package globally.
-* [ ] Install and configure Firefox Developer Edition.
-  * [ ] Install AXE extension.
-* [ ] Install VS Code.
-  * [ ] Install Debugger for Firefox extension.
-  * [ ] Install JSLint extension.
-  * [ ] Install Mocha Test Explorer extension.
-* [ ] GitHub.
-  * [ ] Create your own GitHub Account.
-  * [ ] Accept the GitHub Classroom coursework assignment.
-* [ ] Set Up VSCode.
-  * [ ] Create a new folder for Computing 2.
-  * [ ] Clone this week's repo (this one) into your workspace.
-  * [ ] Clone your assignment repo into your workspace.
-* [ ] Check you can run the module sample web app.
-  * [ ] Install local dependancies with `npm install`
-  * [ ] Web app can be run in the browser.
-  * [ ] Web app reverses text (Javascript modules load correctly)
-  * [ ] Unit tests appear in VSCode sidebar.
-  * [ ] jslint warning appears in `Reverse.test.js`.
+* [x] Install Node.js.
+  * [x] Install JSLint package globally.
+  * [x] Install JSDoc package globally.
+* [x] Install and configure Firefox Developer Edition.
+  * [x] Install AXE extension.
+* [x] Install VS Code.
+  * [x] Install Debugger for Firefox extension.
+  * [x] Install JSLint extension.
+  * [x] Install Mocha Test Explorer extension.
+* [x] GitHub.
+  * [x] Create your own GitHub Account.
+  * [x] Accept the GitHub Classroom coursework assignment.
+* [x] Set Up VSCode.
+  * [x] Create a new folder for Computing 2.
+  * [x] Clone this week's repo (this one) into your workspace.
+  * [x] Clone your assignment repo into your workspace.
+* [x] Check you can run the module sample web app.
+  * [x] Install local dependancies with `npm install`
+  * [x] Web app can be run in the browser.
+  * [x] Web app reverses text (Javascript modules load correctly)
+  * [x] Unit tests appear in VSCode sidebar.
+  * [x] jslint warning appears in `Reverse.test.js`.
   * [ ] JSDoc compiles.
   * [ ] JSDoc output can be viewed in the browser.
 
